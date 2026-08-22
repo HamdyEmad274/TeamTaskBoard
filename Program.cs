@@ -115,6 +115,7 @@ class Program
         Console.WriteLine();
         board.ShowBoard();
 
+        Console.WriteLine("Added New Line Different");
         Console.WriteLine("Added New Line with extra");
 
     }
