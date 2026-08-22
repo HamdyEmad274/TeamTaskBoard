@@ -115,5 +115,7 @@ class Program
         Console.WriteLine();
         board.ShowBoard();
 
+        Console.WriteLine("Added New Line");
+
     }
 }
